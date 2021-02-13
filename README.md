@@ -1,5 +1,5 @@
 # Dark theme for google search
-Temporary dark theme for google search while google hasn't yet rolled out their official dark mode for search.
+Temporary dark theme for google search while they haven't yet rolled out their official dark mode.
 
 ## Installation steps
 
